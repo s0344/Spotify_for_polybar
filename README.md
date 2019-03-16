@@ -1,1 +1,1 @@
-# Spotify_for_polybar
+# Spotify for polybar
