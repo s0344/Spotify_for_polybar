@@ -10,7 +10,7 @@
 [module/spotify]
 type = custom/script
 interval = 1
-format-prefix = " " ;music sign here
+format-prefix = " " ;music icon here
 format = <label>
 exec = python ~/.config/polybar/spotify_status.py -f '{artist}: {song}'
 ;format-underline = #1db954
