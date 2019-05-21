@@ -52,6 +52,6 @@ click-left = "playerctl play-pause"
 - lastly, since the icons will be broken when the script is upload, you will have to manually go to the cheatsheet and find the icons and put it in the scripts and in the config
 
 
-###Source
+### Source
 - https://github.com/Alexays/Waybar/issues/34
 - https://github.com/Jvanrhijn/polybar-spotify 
