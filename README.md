@@ -6,7 +6,7 @@
  > font-# depends on how many fonts you have in your config
  - Put the scripts at `~/.config/polybar/`
  - Open `~/.config/polybar/config` and put this at the end
- ```
+~~~ini
 [module/spotify]
 type = custom/script
 interval = 1
@@ -47,11 +47,11 @@ format-padding = 1
 ;format-underline = #1db954
 ;line-size = 1
 click-left = "playerctl play-pause"
-```
+~~~
 - To enable it, put `spotify previous playpause next` in either `modules-left`, `modules-center` or `modules-right` as you like.
 - lastly, since the icons will be broken when the script is upload, you will have to manually go to the cheatsheet and find the icons and put it in the scripts and in the config
 
 
-- Source:
-> https://github.com/Alexays/Waybar/issues/34
-> 
+###Source
+- https://github.com/Alexays/Waybar/issues/34
+- https://github.com/Jvanrhijn/polybar-spotify 
