@@ -50,3 +50,8 @@ click-left = "playerctl play-pause"
 ```
 - To enable it, put `spotify previous playpause next` in either `modules-left`, `modules-center` or `modules-right` as you like.
 - lastly, since the icons will be broken when the script is upload, you will have to manually go to the cheatsheet and find the icons and put it in the scripts and in the config
+
+
+- Source:
+> https://github.com/Alexays/Waybar/issues/34
+> 
